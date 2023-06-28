@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "binsreg"]
 	path = binsreg
 	url = https://github.com/cran/binsreg
-	shallow = true
-	registered = true
 [submodule "lspartition"]
 	path = lspartition
 	url = https://github.com/cran/lspartition
-	shallow = true
-	registered = true
