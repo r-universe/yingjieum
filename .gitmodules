@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "binsreg"]
-	path = binsreg
-	url = https://github.com/cran/binsreg
 [submodule "lspartition"]
 	path = lspartition
 	url = https://github.com/cran/lspartition
